@@ -1,7 +1,7 @@
 # music_genre_prediction
 Decision Tree Classifier 
 <h1 align="center">Hi 👋, I'm Ángel Molina</h1>
-<h3 align="center">A passionate Python and Knime developer from Spain</h3>
+<h3 align="center">A passionate Python, PowerBI and Knime developer from Spain</h3>
 
 - 🌱 I’m currently learning **Knime and Python**
 
